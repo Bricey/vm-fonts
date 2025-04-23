@@ -1,0 +1,55 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2024 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2024 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2024 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2024 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: undefined by undefined
+ * URL: https://www.myfonts.comundefined
+ * Copyright: Copyright © 2024 Monotype Imaging Inc. All rights reserved.
+ * 
+ * © 2024 MyFonts Inc. */
+
+
+  
+@font-face {
+  font-family: "RestoraNeueRegular";
+  src: url('RestoraNeueRegular/font.woff2') format('woff2'), url('RestoraNeueRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "RestoraNeueItalic";
+  src: url('RestoraNeueItalic/font.woff2') format('woff2'), url('RestoraNeueItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "RestoraNeueBold";
+  src: url('RestoraNeueBold/font.woff2') format('woff2'), url('RestoraNeueBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "RestoraNeueBoldItalic";
+  src: url('RestoraNeueBoldItalic/font.woff2') format('woff2'), url('RestoraNeueBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "1592GLCGaramondNormal";
+  src: url('1592GLCGaramondNormal/font.woff2') format('woff2'), url('1592GLCGaramondNormal/font.woff') format('woff');
+}
+
